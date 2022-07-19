@@ -15,9 +15,7 @@ body{
     background-color:rgba(22, 22, 22, 1);
     margin-left: 140px;
     margin-top: 50px;
-    border-radius: 30px;
-    padding-left: 106px;
-    
+    border-radius: 30px; 
 }
 .box h1{
     font-size: 65px;
@@ -38,6 +36,7 @@ body{
 }
 .box-one{
     width: 50%; 
+    padding-left: 60px;
 }
 .box-one img{
     width: 93%;
