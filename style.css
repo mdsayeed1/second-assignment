@@ -1,0 +1,44 @@
+/* ---------------first section------------------- */
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+   
+}
+.box{
+    display: flex;
+    
+}
+.box{
+    width: 1321px;
+    height: 646px;
+    background-color:rgba(22, 22, 22, 1);
+    margin-left: 140px;
+    margin-top: 50px;
+    border-radius: 30px;
+    padding-left: 106px;
+    
+}
+.box h1{
+    font-size: 65px;
+    color: white;
+}
+.box p{
+    font-size: 16px;
+    color: white;
+    padding-bottom: 30px;
+}
+.box a{
+   background-color: #DD0000;
+   font-size: 20px;
+   color: white;
+   padding: 10px 20px;
+   text-decoration: none;
+   border-radius: 5px;
+}
+.box-one{
+    width: 50%; 
+}
+.box-one img{
+    width: 93%;
+}
